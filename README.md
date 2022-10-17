@@ -20,7 +20,7 @@ Note: To do this you need to have docker on your machine.
 
 **Step 1:** Simply clone this repository
 ```
-git clone 
+git clone https://github.com/jakgritde/simple-ML-app-SalaryPrediction-running-on-Docker.git
 ```
 **Step 2:** Get inside the project
 ```
