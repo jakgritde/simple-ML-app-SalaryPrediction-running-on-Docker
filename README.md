@@ -24,7 +24,7 @@ git clone https://github.com/jakgritde/simple-ML-app-SalaryPrediction-running-on
 ```
 **Step 2:** Get inside the project
 ```
-cd simple-ML-SalaryPrediction-on-Docker
+cd simple-ML-app-SalaryPrediction-running-on-Docker
 ```
 **Step 3:** Create docker image
 ```
