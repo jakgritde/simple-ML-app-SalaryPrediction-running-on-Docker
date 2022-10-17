@@ -37,6 +37,6 @@ docker run -d -p 8501:8501 myapp:1.0
 **Step 6:** Point your browser to http://127.0.0.1:8501/  
 
 ## The result should look like this
-![](images/salary-prediction.png)
+![](images/salary-prediction-web-page.png)
 
 **Step 7:** HAVE FUN!
